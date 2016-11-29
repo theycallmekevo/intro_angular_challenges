@@ -1,6 +1,6 @@
 console.log('challenge #3 -- app.js loaded!');
 
-// var app = angular.module("appThree", []);
+var app = angular.module("appThree", []);
 // app.controller("infoController", infoController)
 
 // function infoController(){
